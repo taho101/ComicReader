@@ -1,0 +1,12 @@
+﻿<Window x:Class="ComicReader.DirectorySelect"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DirectorySelect" Height="300" Width="714" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Name="TextBoxFolderPath"
+        VerticalAlignment="Top" Width="549" Margin="12,12,0,0" IsReadOnly="True" Text=""></TextBox>
+
+        <Button Content="Browse folder" Height="23" HorizontalAlignment="Right" Margin="0,11,12,0" Name="ButtonOpenFolderDialog"
+        VerticalAlignment="Top" Width="113" Click="ButtonOpenFolderDialog_Click"></Button>
+    </Grid>
+</Window>

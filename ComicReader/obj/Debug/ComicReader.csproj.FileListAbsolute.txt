@@ -1,0 +1,17 @@
+E:\Workspace\Visual Studio\ComicReader\ComicReader\bin\Debug\ComicReader.exe.config
+E:\Workspace\Visual Studio\ComicReader\ComicReader\bin\Debug\ComicReader.exe
+E:\Workspace\Visual Studio\ComicReader\ComicReader\bin\Debug\ComicReader.pdb
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\MainWindow.baml
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\MainWindow.g.cs
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\App.g.cs
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\ComicReader_MarkupCompile.cache
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\ComicReader.g.resources
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\ComicReader.Properties.Resources.resources
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\ComicReader.csproj.GenerateResource.Cache
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\ComicReader.exe
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\ComicReader.pdb
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\ComicReader_MarkupCompile.lref
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\DirectorySelect.baml
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\DirectorySelect.g.cs
+E:\Workspace\Visual Studio\ComicReader\ComicReader\obj\Debug\ComicReader.csprojResolveAssemblyReference.cache
